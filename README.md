@@ -9,7 +9,7 @@
 
 * Unreal
 
- ```Languagest```
+ ```Languages```
 
 * C#
 * Python
@@ -25,7 +25,7 @@
 
 * Godot
 
- ```Languagest```
+ ```Languages```
 
 * C++
 
