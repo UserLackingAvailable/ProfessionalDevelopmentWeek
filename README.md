@@ -31,7 +31,7 @@
 
 ### Studio Types
 
-```Tripe-A```
+```Triple-A```
 * Valve
 ```Indie```
 * Team Cherry
