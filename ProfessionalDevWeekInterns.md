@@ -7,6 +7,7 @@
 
 [Resume - Programming](https://studentuiwtx-my.sharepoint.com/:w:/g/personal/jmbrock_student_uiwtx_edu/EdGkO-J9eeVOsmd-wVeH2usBjHJTMjJfYilx9xykX-rvPg?e=d3ysST)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Activision Summer Internship - Environment Art](https://careers.activision.com/apply?jobSeqNo=ACPUUSR025953EXTERNAL&step=1&stepname=personalInformation)
 
@@ -14,6 +15,8 @@
 * Learn about tool 3DS Max and practice more on Hard Surface modelng to show strong portfolio regarding Environmental Art.
 
 [Resume - Modeling](https://studentuiwtx-my.sharepoint.com/:w:/g/personal/jmbrock_student_uiwtx_edu/EbJoxLGkLw1Hhpi5xKQ7aP8BthSStnrexmAnUGzV-XOx-g?e=vh2GCE)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Epic Games - Gameplay Programmer Intern](https://www.epicgames.com/site/en-US/careers/jobs/5663908004)
 
