@@ -32,11 +32,16 @@
 ### Studio Types
 
 ```Triple-A```
+<<<<<<< HEAD
 
 * Valve
 
 ```Indie```
 
+=======
+* Valve
+```Indie```
+>>>>>>> 736da642514e083dbdacc22bb2ab9283eaa3cc56
 * Team Cherry
 * Ghost Town Games
 
