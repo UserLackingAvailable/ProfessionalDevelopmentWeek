@@ -1,4 +1,4 @@
-[Blizzard Tech Art Summer Intern](https://www.indeed.com/viewjob?jk=df1bed90914102bd&from=shareddesktop_copy)
+[Blizzard Summer Internship - Tech Artist](https://www.indeed.com/viewjob?jk=df1bed90914102bd&from=shareddesktop_copy)
 
 ### Why is this a good fit for me? What should I work on to meet the requirements?
 
