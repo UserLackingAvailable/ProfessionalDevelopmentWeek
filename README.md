@@ -1,5 +1,5 @@
 # Intersted Areas 
-_______________________________________
+
 Strengths
     * Game Engine
       * Unity
@@ -17,7 +17,7 @@ Weakness
         * C++
     * Type of Game Programming
         * 
-_______________________________________
+
 Studio Types
     * Tripe-A
       * Valve
@@ -25,7 +25,7 @@ Studio Types
       * Team Cherry
       * Ghost Town Games
 
-_______________________________________
+
 Programming Specialization
     * Gameplay Programming
       * Player Input
